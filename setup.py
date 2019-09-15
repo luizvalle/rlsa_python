@@ -8,7 +8,7 @@ setup(
   author = 'Luiz Fernando Lemos do Valle',
   author_email = 'lld2131@columbia.edu',
   url = 'https://github.com/Lufeva123/rlsa_python',
-  download_url = 'https://github.com/Lufeva123/rlsa_python/archive/v01.tar.gz',
+  download_url = 'https://github.com/Lufeva123/rlsa_python/archive/v0.1.tar.gz',
   keywords = ['computer vision', 'image processing'],
   install_requires=[
           'numpy'
