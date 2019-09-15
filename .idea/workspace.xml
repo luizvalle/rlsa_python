@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff5d2c0f-e50f-4d31-b780-9959a86db301" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rlsa_python/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/rlsa_python/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rlsa_python/test_data/text_image.png" beforeDir="false" afterPath="$PROJECT_DIR$/rlsa_python/test_data/text_image.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rlsa_python/test_data/text_image_result.png" beforeDir="false" afterPath="$PROJECT_DIR$/rlsa_python/test_data/text_image_result.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

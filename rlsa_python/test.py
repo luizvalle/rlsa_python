@@ -27,6 +27,6 @@ if __name__ == "__main__":
     inverted_image = binary_invert(img)
     smeared_image = RLSA.apply_rlsa(inverted_image, 80, 100, 10)
 
-    cv2.imwrite(os.path.join(ROOT_PATH, "test_data", "text_image_inverted.png"), inverted_image)
+    cv2.imwrite(os.path.join(ROOT_PATH, "test_data", "text_image_result.png"), smeared_image)
     
 
